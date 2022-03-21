@@ -1,5 +1,6 @@
 *.sqlite3
 *.txt
+!requirements.txt
 scrapper/__pycache__/*
 .idea
 .idea/*
