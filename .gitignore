@@ -1,0 +1,8 @@
+*.sqlite3
+*.txt
+scrapper/__pycache__/*
+.idea
+.idea/*
+__pycache__/
+futbin/__pycache__/
+Pipfile.lock
